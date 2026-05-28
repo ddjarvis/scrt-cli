@@ -1,1 +1,1 @@
-# scrt
+# scrt-cli
